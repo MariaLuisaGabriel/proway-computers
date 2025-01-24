@@ -1,0 +1,9 @@
+.header {
+    display:flex;
+    width:"80%";
+    padding:20px;
+}
+
+.item{
+    margin-right:10px;
+}
